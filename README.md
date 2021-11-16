@@ -1,6 +1,6 @@
 <a href="https://doxland.github.io/website/" target="_blank"> <img src="https://c.tenor.com/lke_O1TgxVIAAAAM/grunge-aesthetic.gif" alt="Doxlands Github"/></a>
 ```js
-Owner Of RedPulse And Reaper Puller
+One Owner Of RedPulse And Reaper Puller
 ```
 
 

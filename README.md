@@ -1,4 +1,4 @@
-<h1 align="center">Sup Fellow Hacker<3 
+<h1 align="center">Sup Hackers
  I am Designer</h1>
 <h3 align="center">I am 16 year old coder</h3>
 <a href="https://doxland.github.io/website/" target="_blank"> <img src="https://c.tenor.com/lke_O1TgxVIAAAAM/grunge-aesthetic.gif" alt="Doxlands Github"/></a>
